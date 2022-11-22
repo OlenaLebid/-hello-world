@@ -1,0 +1,74 @@
+h1{
+	font-size: 50px;
+	font-family:'Lora', serif ;
+	color: #610B21;
+}
+h2{
+	color: white;
+    text-shadow: 1px 1px #732372, 1px -1px #732372, -1px 1px #732372, -1px -1px #732372, 3px 3px 6px rgba(0,0,0,.5);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+p2{
+	text-align: center;
+}
+h3{
+	margin-right: 25%;
+
+
+}
+p2{
+	margin-right: 25%;
+
+}
+h4{
+	margin-left: 40%;
+
+}
+p{
+	margin-left: 40%;
+
+}
+div.column {
+    float: left;
+    width: 50%;
+    height: 200px;;
+}
+p4{
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 400px;
+}
+a{
+	position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 400px;
+}
+
+body {
+	font-family:'Lora', serif ;
+	color: #610B21;
+	text-align: center;
+}
+div.background1{
+	background-image: url(https://img.freepik.com/premium-vector/abstract-violet-liquid-watercolor-background-with-golden-stains_353323-237.jpg?w=2000);
+    top: 20%;
+    bottom: 10%;
+}
+video{
+	width: 540px; 
+	height: 380px;
+	position: absolute;
+    left: 35%;
+}
+
+div.background{
+	background-image: url(https://abrakadabra.fun/uploads/posts/2021-11/1636532404_1-abrakadabra-fun-p-fon-dlya-prezentatsii-sirenevii-nezhnii-1.jpg);
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
